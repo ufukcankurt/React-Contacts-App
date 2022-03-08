@@ -8,12 +8,12 @@ This app is my first react project;
 ## 📖 Screenshot
 
 <p align="center" style="padding: 10px">
-    <img alt="" src="../08_react-contacts-app/public/1.png" width="300">
+    <img alt="" src="./public/1.png" width="300">
     <br>
 
 <p align="center">
-    <img alt="" src="../08_react-contacts-app/public/2.png" width="300">
-    <img alt="" src="../08_react-contacts-app/public/3.png" width="300">
+    <img alt="" src="./public/2.png" width="300">
+    <img alt="" src="./public/3.png" width="300">
 </p>
 
 
