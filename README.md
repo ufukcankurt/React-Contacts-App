@@ -1,3 +1,24 @@
+# React Contact App
+
+This app is my first react project;
+
+- I learned how ***component structure*** is and also how to use ***useState*** and ***useEffect.***
+- We can add a new contact and also filter by name and number.
+
+## 📖 Screenshot
+
+<p align="center" style="padding: 10px">
+    <img alt="" src="../08_react-contacts-app/public/1.png" width="300">
+    <br>
+
+<p align="center">
+    <img alt="" src="../08_react-contacts-app/public/2.png" width="300">
+    <img alt="" src="../08_react-contacts-app/public/3.png" width="300">
+</p>
+
+
+
+_____
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
